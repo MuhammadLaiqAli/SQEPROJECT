@@ -25,7 +25,15 @@ to accommodate people who do not speak English.
 
 2.5 The system shall dp parallel operation in processing camera and mat information to generate the report.
 
-# 3. Other Requirements
+# 3. Language Requirements
 
 3.1 Python shall be used for this AI software, as no specific language was constrained by
 stakeholder.
+
+# 4. Assumptions and Dependencies
+
+4.1 As the software matches the pictures of golf players with ideal cases, if the height and weight of a
+new golf player does not match with an ideal golf player then it will affect one of the requirements.
+
+4.2 The software surely depends on the number of cameras and the angles at which they are
+placed and also the weight sensor or weight mats.
