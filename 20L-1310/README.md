@@ -1,34 +1,41 @@
-# Performance Requirements
-5.1.1 - The system's performance should have criteria included the condition that the reports
+# 1. Performance Requirements
+
+  1.1 - The system's performance should have criteria included the condition that the reports
 or results shown on the system's screen outside the room should not take too long.
-5.1.2 - It should take around 20 to 30 seconds for the system to generate reports or findings.
-5.1.3 - It should be as if the user gives a trial in front of all cameras and then exits the room
+  1.2 - It should take around 20 to 30 seconds for the system to generate reports or findings.
+  1.3 - It should be as if the user gives a trial in front of all cameras and then exits the room
 to look at the system and open its report, which should be visible to him/her in 4 to 5 seconds, and
 from there he/she can use the play button to check the video with different functionalities and
 compare the ideal skeletons with his/her skeletons from the video.
-5.1.4- The system should also be able to provide instruction for any posture on either side,
+  1.4- The system should also be able to provide instruction for any posture on either side,
 regardless of whether the user is left- or right-handed.
-# Safety Requirements
-5.2.1- The system should not very complicated, and it doesn't need a lot of hardware that
+
+# 2. Safety Requirements
+
+  2.1- The system should not very complicated, and it doesn't need a lot of hardware that
 may cause danger, loss, or damage.
-5.2.2- It should simply consists of a room with cameras and a weight-sensor mat, with no
+  2.2- It should simply consists of a room with cameras and a weight-sensor mat, with no
 further gear connected to the player that might bother or damage him.
-5.2.3- When a player hits the coulee golf bowl, there should be a device in place to ensure
+  2.3- When a player hits the coulee golf bowl, there should be a device in place to ensure
 that it does not rebounce back at the player, potentially injuring him or her.
-# Security Requirements
-5.3.1- The system should so well-coded that no one could possibly harm any user data or
+
+# 3. Security Requirements
+  3.1- The system should so well-coded that no one could possibly harm any user data or
 manipulate the system's database, resulting in mistakes and incorrect output, and ultimately, security
 concerns.
-5.3.2- As a result, there should be such a mechanism that no one will ever be able to hack it.
-5.4 Software Quality Attributes
-5.4.1- There should be no errors in the system, all of the users' positions should be collected
+  3.2- As a result, there should be such a mechanism that no one will ever be able to hack it.
+  
+# 4. Software Quality Attributes
+
+  4.1- There should be no errors in the system, all of the users' positions should be collected
 accurately, their skeletons should be created correctly, and the ideal skeletons should be created
 correctly using videos of ideal individuals.
-5.4.2- Leaders should be able to detect no errors in the system and spend less time verifying
+  4.2- Leaders should be able to detect no errors in the system and spend less time verifying
 reports if there is a low error rate and it is feasible, maintainable and unambiguous. After all, we
 could eliminate the need for a leader or guide from the system.
-# Business Rules
+
+# 5. Business Rules
 There are just two interface portals in the system.
-5.5.1- The first is for the coach should accept, refuse, or examine the player's report made
+  5.1- The first is for the coach should accept, refuse, or examine the player's report made
 by the system.
-5.5.2- The second is for the player should just view and analyse their report on the LED
+  5.2- The second is for the player should just view and analyse their report on the LED
