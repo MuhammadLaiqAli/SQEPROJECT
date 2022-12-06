@@ -42,5 +42,4 @@ style. You may learn about your shortcomings below..."
 
 4.2 The transfer rate of the system shall so high that it generates reports in 5 to 6 minutes.
 
-4.3 The system shall not have encryption issues and it has networkserver communications
-protocols.
+4.3 The system shall not have encryption issues and it has networkserver communications protocols.
