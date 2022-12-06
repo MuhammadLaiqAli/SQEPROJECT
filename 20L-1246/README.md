@@ -24,3 +24,8 @@ to accommodate people who do not speak English.
 2.4 The system shall be efficient enough to respond to the user and coach in 5 to 6 minutes. 
 
 2.5 The system shall dp parallel operation in processing camera and mat information to generate the report.
+
+# 3. Other Requirements
+
+3.1 Python shall be used for this AI software, as no specific language was constrained by
+stakeholder.
