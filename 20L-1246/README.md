@@ -36,4 +36,4 @@ stakeholder.
 new golf player does not match with an ideal golf player then it will affect one of the requirements.
 
 4.2 The software surely depends on the number of cameras and the angles at which they are
-placed and also the weight sensor or weight mats.
+placed and also the weight sensor, weight mats.
