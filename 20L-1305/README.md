@@ -44,3 +44,25 @@ style. You may learn about your shortcomings below..."
 
 4.3 The system shall not have encryption issues and it has networkserver communications
 protocols.
+
+# 5.Test Automation Framework
+
+5.1 The test automation framework shall test a singal module in 1-2 seconds.
+
+5.2 The test automation framework shall be less error prone.
+
+5.3 The test automation framework shall generate code coverage report within 2 minutes.
+
+5.4 The test automation framework shall be able to run a test suite within 20-30 seconds.
+
+
+# 6.Modularity Requirements
+
+6.1 The system shall be modularize in atleast 20 classes.
+
+6.2 Each class shall be further modularize into necessary functions(5-6).
+
+6.3 Each module shall be independent and testable.
+
+6.4 Each module shall parse its code coverage report to test automation framework. 
+
